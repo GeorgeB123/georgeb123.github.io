@@ -9,7 +9,7 @@ published: true
 
 <h2 class="section-heading">Surviving</h2>
 
-<p>It has been a whirlwind year so far. After landing in London late February, I was virtually homeless for the first three weeks until I was fortunate enough to find my first software development job. The job seemed to be the easy part as a bank account and accomdation were much harder to come across</p>
+<p>It has been a whirlwind year so far. After landing in London late February, I was virtually homeless for the first three weeks until I was fortunate enough to find my first software development job. The job seemed to be the easy part as a bank account and accomodation were much harder to come across.</p>
 
 <p>I've learnt the UK is extremely bureacratic and this often means things taking a lot longer than expected. I needed a house to get a bank account and a bank account to get a house - talk about catch 22. Luckily, my work stepped in and was my address for a while so that all got sorted eventually.</p>
 
@@ -29,4 +29,4 @@ published: true
 
 <p>I am looking in to mobile development in the future as I would like to expand my swift skills and have a few projects going already. These can be seen on my github which is linked below.</p>
 
-<p>Not a whole lot else really, I am looking forward to going home over the new years period and travelling some more next year. I might pick up a new hobby or something, who knows? Anyway, that's all for know, get in touch if you have any questions or just would lke to say hi.</p>
+<p>Not a whole lot else really, I am looking forward to going home over the new years period and travelling some more next year. I might pick up a new hobby or something, who knows? Anyway, that's all for know, get in touch if you have any questions or just would like to say hi.</p>
