@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Keep on Rolling"
+title:      "Keep on Rolling."
 date:       2018-04-08 17:00:00
 author:     "George Bonnici-Carter"
 header-img: "img/rocky-mountains.jpg"
